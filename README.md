@@ -32,6 +32,64 @@ UMD Spanish QuickLearn is a mobile application designed to help University of Ma
 ## Installation
 To be updated upon completion of the app development with installation instructions.
 
+
+## Sprint Planning
+
+### Sprint Overview
+The development process is divided into three sprints over three weeks, with each sprint focused on delivering a set of features that contribute to the overall functionality of the app.
+
+### Sprint 1: Project Setup & Fundamental Features
+**Duration**: Week 1
+
+#### Goals:
+- Initialize the Swift project and configure the basic architecture.
+- Set up the GitHub repository with a proper directory and branch structure.
+- Create core data models for vocabulary, phrases, and quiz content.
+- Develop stubs for networking and database interactions.
+  
+### Sprint 2: Interactive Learning Tools
+**Duration**: Week 2
+
+#### Goals:
+- Design and implement the Daily Vocabulary feature.
+- Build the interactive flashcard system for vocabulary and phrases.
+- Develop the basic layout and functionality for the quiz module.
+- Create the Phrasebook section with essential categories.
+
+### Sprint 3: Advanced Features and Polishing
+**Duration**: Week 3
+
+#### Goals:
+- Integrate a text-to-speech API for word and phrase pronunciations.
+- Program the user progress tracking system with learning statistics.
+- Refine the user interface and user experience across the app.
+- Conduct comprehensive testing and fix any identified issues.
+- Prepare for launch, including app store submission requirements.
+
+### GitHub Branch Strategy
+- `main`: The main branch contains the production-ready codebase.
+- `sprint-1`, `sprint-2`, `sprint-3`: Dedicated branches for work pertaining to each sprint.
+- Feature branches: Temporary branches for new features, which will merge into sprint branches upon completion.
+
+### Testing and Feedback
+End of Week 3 will also focus on:
+- Collecting user feedback from a small group of beta testers.
+- Refining features based on feedback.
+- Ensuring that all functionalities are intuitive and bug-free.
+
+### Version Tracking
+- At the end of each sprint, the stable version of the app will be tagged within the GitHub repository to track progress and changes effectively.
+
+## Conclusion
+The UMD Spanish QuickLearn App is committed to providing an engaging and educational tool to assist UMD students in learning Spanish efficiently. The three-week sprint plan is structured to maximize productivity and deliver a high-quality language learning application.
+This updated README.md now clearly outlines the project overview, the sprint structure with a 3-week timeline, the goals for each sprint, and how the GitHub repository will be managed across the development period.
+
+
+
+
+
+
+
 ## Contribution
 UMD students and faculty are welcome to contribute by providing feedback, suggesting new features, and reporting issues.
 
