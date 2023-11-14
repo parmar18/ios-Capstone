@@ -6,17 +6,13 @@ UMD Spanish QuickLearn is a mobile application designed to help University of Ma
 ## Product Specs
 - **Platform**: iOS
 - **Language**: Swift
-- **APIs**:
-  - WordsAPI for definitions, synonyms, and examples.
-  - iOS Speech framework for text-to-speech functionality.
+
 
 ## Features
-1. **Daily Vocabulary**: Every day, the app presents a curated list of words to learn.
-2. **Flashcards**: Users can swipe through flashcards to learn and memorize words.
-3. **Quizzes**: Users can take quizzes to test their knowledge and retention.
-4. **Phrasebook**: A handy guide of essential phrases for various scenarios.
-5. **Pronunciation Guide**: Each word and phrase comes with an audio pronunciation.
-6. **Progress Tracker**: Users can view their learning statistics and progress.
+1. **Flashcards**: Users can swipe through flashcards to learn and memorize words.
+2. **Quizzes**: Users can take quizzes to test their knowledge and retention.
+3. **Phrasebook**: A handy guide of essential phrases for various scenarios.
+
 
 ## User Interface
 - Simple, intuitive, and accessible UI design.
@@ -60,8 +56,7 @@ The development process is divided into three sprints over three weeks, with eac
 **Duration**: Week 3
 
 #### Goals:
-- Integrate a text-to-speech API for word and phrase pronunciations.
-- Program the user progress tracking system with learning statistics.
+- Just work on the UI as the nackend is ready.
 - Refine the user interface and user experience across the app.
 - Conduct comprehensive testing and fix any identified issues.
 - Prepare for launch, including app store submission requirements.
@@ -83,10 +78,6 @@ End of Week 3 will also focus on:
 ## Conclusion
 The UMD Spanish QuickLearn App is committed to providing an engaging and educational tool to assist UMD students in learning Spanish efficiently. The three-week sprint plan is structured to maximize productivity and deliver a high-quality language learning application.
 This updated README.md now clearly outlines the project overview, the sprint structure with a 3-week timeline, the goals for each sprint, and how the GitHub repository will be managed across the development period.
-
-
-
-
 
 
 
